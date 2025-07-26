@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+
+body{
+  font-family: Rubik;
+  color: rgba(7,71,79,1);
+}
+
+
+
+li{
+  list-style: none;
+}
+
+
+.font-poppins{
+  font-family: Poppins;
+}
+
+/* .heroImages{
+  border-radius-
+} */
+
+
+.searchbar{
+
+  /* background-color: red; */
+  padding: 5px;
+  
+  
+}
